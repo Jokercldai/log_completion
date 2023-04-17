@@ -8,4 +8,4 @@ The "utils" folder contains the "load_data.py" file, which generates training sa
 
 The "Preprocessing" folder contains programs for pre-processing operations, including median filtering, standardization, normalization, etc.
 
-Both Please follow this link https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html to configure the environment. Please select torch_geometric version 2.1.0 or later
+Please follow this link https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html to configure the environment. Please select torch_geometric version 2.1.0 or later.
