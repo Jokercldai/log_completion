@@ -64,6 +64,11 @@ keywords = {Missing well logs, Well log completion, FlexLogNet, The HGNN head, T
 Our work is primarily based on the implementation of graph neural network architectures, relying on the Python language and the torch-geometric library (version 1.5 and above). The specific installation steps for torch-geometric are as follows:
 [torch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
 
+##### 1. Via Anaconda and pip (recommended):
+    conda create -n PLAN python==3.11.0
+    pip install -r requirements.txt
+    conda activate PLAN
+
 ## file 
 
 
