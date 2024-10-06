@@ -34,6 +34,14 @@ The advantage of our method lies in the fact that it can adaptively use all know
 <img src="assert/model_battle.jpg"  width="80%" height="80%">
 </p>
 
+We have innovatively coupled a heterogeneous graph neural network into the U-Net architecture. Specifically, during the downsampling process, we use multiple independent CNN encoders to better extract the spatial features of each corresponding log separately, instead of using a single encoder for all logs. During the upsampling process, we introduce a heterogeneous aggregation module and adapt and optimize the attention mechanism calculation for the well log task.
+
+<p align="center" width="100%">
+<img src="assert/Graph Head.jpg"  width="80%" height="80%">
+</p>
+
+
+
 If our work has been helpful to you, please refer and cite the following articles: 
 [FlexLogNet](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001493)
 
