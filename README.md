@@ -28,6 +28,8 @@
 # 🌟 FlexLogNet
 As shown in above figure, our network takes multiple types of well logs as input from which the network leverages all available well log segments to predict the missing ones at the same depth.
 
+The advantage of our method lies in the fact that it can adaptively use all known well logs to predict any missing well logs, achieving a very flexible and practical well log completion function of using what you have to complete what you are missing. It overcomes the limitations of models like BiLSTM, which are fixed in terms of input and output well log types and are unable to complete randomly missing well logs in practical scenarios or require multiple models to predict specific types of missing logs separately.
+
 If our work has been helpful to you, please refer and cite the following articles: 
 [FlexLogNet](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001493)
 
