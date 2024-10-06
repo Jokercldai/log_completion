@@ -45,12 +45,4 @@ author = {Chuanli Dai and Xu Si and Xinming Wu},
 keywords = {Missing well logs, Well log completion, FlexLogNet, The HGNN head, The FCN head},
 }
 ```
- 
-```
-@article{sheng2023seismic,
-  title={Seismic Foundation Model (SFM): a new generation deep learning model in geophysics},
-  author={Sheng, Hanlin and Wu, Xinming and Si, Xu and Li, Jintao and Zhang, Sibio and Duan, Xudong},
-  journal={arXiv preprint arXiv:2309.02791},
-  year={2023}
-}
-```
+
