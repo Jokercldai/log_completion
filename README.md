@@ -11,7 +11,7 @@
     </br>
     <a href='https://github.com/Jokercldai/' target='_blank'>Chuanli Dai<sup>1</sup></a>&emsp;
     <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xu Si<sup>1</sup></a>&emsp;
-    <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xinming  Wu<sup>1,†</sup></a>&emsp;
+    <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xinming  Wu<sup>1,*</sup></a>&emsp;
 </div>
 <div>
 
@@ -20,7 +20,7 @@
     University of Science and Technology of China&emsp;
     </br>
     <!-- <sup>*</sup> Equal Contribution&emsp; -->
-    <sup>†</sup> Corresponding Author&emsp;
+    <sup>*</sup> Corresponding Author&emsp;
 </div>
 
 -----------------
@@ -40,8 +40,6 @@ We have innovatively coupled a heterogeneous graph neural network into the U-Net
 <img src="assert/Graph Head.jpg"  width="80%" height="80%">
 </p>
 
-
-
 If our work has been helpful to you, please refer and cite the following articles: 
 [FlexLogNet](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001493)
 
@@ -60,9 +58,12 @@ keywords = {Missing well logs, Well log completion, FlexLogNet, The HGNN head, T
 }
 ```
 
+# 🌟 Quick start
+
 ## Installation
 Our work is primarily based on the implementation of graph neural network architectures, relying on the Python language and the torch-geometric library (version 1.5 and above). The specific installation steps for torch-geometric are as follows:
 [torch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
 
+## file 
 
 
