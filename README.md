@@ -6,6 +6,7 @@
 <div>
 <div align="center">
     <strong>FlexLogNet: A flexible deep learning-based well-log completion method of adaptively using 
+        </br>
         what you have to predict what you are missing</strong>
     </br>
     <a href='https://github.com/Jokercldai/' target='_blank'>Chuanli Dai<sup>1</sup></a>&emsp;
