@@ -5,7 +5,8 @@
 
 <div>
 <div align="center">
-    <strong>FlexLogNet: A flexible deep learning-based well-log completion method of adaptively using what you have to predict what you are missing</strong>
+    <strong>FlexLogNet: A flexible deep learning-based well-log completion method of adaptively using 
+        what you have to predict what you are missing</strong>
     </br>
     <a href='https://github.com/Jokercldai/' target='_blank'>Chuanli Dai<sup>1</sup></a>&emsp;
     <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xu Si<sup>1</sup></a>&emsp;
