@@ -30,7 +30,8 @@ As shown in above figure, our network takes multiple types of well logs as input
 
 If our work has been helpful to you, please refer and cite the following articles: 
 [FlexLogNet](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001493)
-'''
+
+```
 @article{DAI2024105666,
 title = {FlexLogNet: A flexible deep learning-based well-log completion method of adaptively using what you have to predict what you are missing},
 journal = {Computers & Geosciences},
@@ -43,11 +44,9 @@ url = {https://www.sciencedirect.com/science/article/pii/S0098300424001493},
 author = {Chuanli Dai and Xu Si and Xinming Wu},
 keywords = {Missing well logs, Well log completion, FlexLogNet, The HGNN head, The FCN head},
 }
-'''
+```
  
-
-This is a PyTorch/GPU implementation of the paper [Seismic Foundation Model](https://arxiv.org/abs/2309.02791):
-
+```
 @article{sheng2023seismic,
   title={Seismic Foundation Model (SFM): a new generation deep learning model in geophysics},
   author={Sheng, Hanlin and Wu, Xinming and Si, Xu and Li, Jintao and Zhang, Sibio and Duan, Xudong},
