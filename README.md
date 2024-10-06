@@ -1,10 +1,23 @@
-# log_completion
- 
-The file "train_station.py" contains the main function for training and settings of several training hyperparameters.
+<p align="center" width="100%">
+<img src="assert/state_work.pdf"  width="80%" height="80%">
+</p>
 
 
-The "utils" folder contains the "load_data.py" file, which generates training samples based on real data, and constructs connections between well logs based on the missingness of well logs in the training samples. These connections are used for message passing between nodes in the graph neural network (GNN). The "model.py" file constructs the FlexLogNet network. The "utils.py" file contains the network training process, including visualization of the training loss curve and adaptive learning rate. Other files are used for visualization and some post-processing calculations, such as the computation of the evaluation metric Pearson correlation coefficient (PCC).
+<div>
+<div align="center">
+    <a href='https://github.com/Jokercldai/' target='_blank'>Chuanli Dai
+    <sup>1</sup></a>&emsp;
+    <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xu Si<sup>1</sup></a>&emsp;
+    <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xinming  Wu<sup>1,†</sup></a>&emsp;
+</div>
+<div>
 
-The "Preprocessing" folder contains programs for pre-processing operations, including median filtering, standardization, normalization, etc.
+<div align="center">
+    <sup>1</sup>
+    University of Science and Technology of China&emsp;
+    </br>
+    <!-- <sup>*</sup> Equal Contribution&emsp; -->
+    <sup>†</sup> Corresponding Author&emsp;
+</div>
 
-Please follow this link https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html to configure the environment. Please select torch_geometric version 2.1.0 or later.
+-----------------
