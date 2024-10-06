@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assert/state_work.pdf"  width="80%" height="80%">
+<img src="assert/state_work.jpg"  width="80%" height="80%">
 </p>
 
 
